@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I’m Mateusz, a `Full Stack Web Developer`, working worldwide 🌍  
+I’m Mateusz, a `Full Stack Web Developer` 🌍  
 Currently packed with projects 🐝  
 
 
